@@ -9,6 +9,15 @@ ITIL Foundation – EXIN<br />
 Oracle 9i, 10g, 11g OCP – Oracle<br />
 Microsoft Database Administrator and System Engineer – Microsoft<br />
 
+DIO Formação ChatGPT for Devs<br />
+DIO Formação AWS Cloud Practitioner Certification<br />
+DIO Formação SQL Database Specialist<br />
+DIO Bootcamp Cloud AWS<br />
+DIO Bootcamp Cognizant Cloud Data Engineer<br />
+DIO Bootcamp Database Experience<br />
+DIO Bootcamp .Net Fundamentals<br />
+DIO Bootcamp LocalizaLabs .NET Developer<br />
+
 ## Tecnologias
 - AWS
 - C#
