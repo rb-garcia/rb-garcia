@@ -11,6 +11,7 @@ Microsoft Database Administrator and System Engineer – Microsoft<br />
 
 ## Tecnologias
 - AWS
+- C#
 - MySQL
 - PostgreSQL
 - Oracle Database
@@ -18,3 +19,4 @@ Microsoft Database Administrator and System Engineer – Microsoft<br />
 - Python
 - Power BI
 - Pentaho
+
