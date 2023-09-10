@@ -8,3 +8,13 @@ COBIT Foundation – ISACA<br />
 ITIL Foundation – EXIN<br />
 Oracle 9i, 10g, 11g OCP – Oracle<br />
 Microsoft Database Administrator and System Engineer – Microsoft<br />
+
+## Tecnologias
+- AWS
+- MySQL
+- PostgreSQL
+- Oracle Database
+- SQL Server
+- Python
+- Power BI
+- Pentaho
