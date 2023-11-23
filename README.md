@@ -6,6 +6,7 @@ Graduação em Gestão da Tecnologia da Informação – Unisinos<br />
 Professional Scrum Master – Scrum.org<br />
 COBIT Foundation – ISACA<br />
 ITIL Foundation – EXIN<br />
+AWS Certified Cloud Practitione<br />
 Oracle 9i, 10g, 11g OCP – Oracle<br />
 Microsoft Database Administrator and System Engineer – Microsoft<br />
 
