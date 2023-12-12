@@ -31,5 +31,5 @@ DIO Bootcamp LocalizaLabs .NET Developer<br />
 - Pentaho
 
 ## Mais informações
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-barrionuevo-garcia-7048811a)](https://www.linkedin.com/in/ricardo-barrionuevo-garcia-7048811a)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardobarrionuevogarcia)](https://www.linkedin.com/in/ricardobarrionuevogarcia)
 
