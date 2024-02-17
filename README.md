@@ -10,6 +10,7 @@ AWS Certified Cloud Practitione – AWS<br />
 Oracle 9i, 10g, 11g OCP – Oracle<br />
 Microsoft Database Administrator and System Engineer – Microsoft<br />
 
+DIO Bootcamp Microsoft Azure AI Fundamentals<br />
 DIO Formação ChatGPT for Devs<br />
 DIO Formação AWS Cloud Practitioner Certification<br />
 DIO Formação SQL Database Specialist<br />
@@ -21,6 +22,7 @@ DIO Bootcamp LocalizaLabs .NET Developer<br />
 
 ## Tecnologias
 - AWS
+- Azure
 - C#
 - MySQL
 - PostgreSQL
