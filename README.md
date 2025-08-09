@@ -20,6 +20,7 @@ DIO Bootcamp Database Experience<br />
 DIO Bootcamp .Net Fundamentals<br />
 DIO Bootcamp LocalizaLabs .NET Developer<br />
 DIO Bootcamp Linux Experience<br />
+DIO Bootcamp Linux do Zero<br />
 
 ## Tecnologias
 - AWS
