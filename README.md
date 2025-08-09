@@ -33,6 +33,8 @@ DIO Bootcamp Linux do Zero<br />
 - Python
 - Power BI
 - Pentaho
+- MongoDB
+- Hadoop
 
 ## Mais informações
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardobarrionuevogarcia)](https://www.linkedin.com/in/ricardobarrionuevogarcia)
